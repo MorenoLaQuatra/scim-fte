@@ -8,3 +8,7 @@ We then propose a classification approach to automatically predict-ing whether t
 
 Coming Soon.
 
+# Paper citation 
+
+Cagliero, L., La Quatra, M. & Baralis, E. *Understanding the value of full-text articleexploration in citation analysis*, **currently under review**
+
