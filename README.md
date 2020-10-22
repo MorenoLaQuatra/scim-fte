@@ -10,5 +10,5 @@ Coming Soon.
 
 # Paper citation 
 
-Cagliero, L., La Quatra, M. & Baralis, E. *Understanding the value of full-text articleexploration in citation analysis*, **currently under review**
+Cagliero, L., La Quatra, M. & Baralis, E. *Understanding the value of full-text article exploration in citation analysis*, **currently under review**
 
