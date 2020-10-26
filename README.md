@@ -6,7 +6,19 @@ We propose a classification approach to automatically predicting whether the art
 
 # Repository documentation
 
-Coming Soon.
+| Shortname | Classifier             |
+|-----------|------------------------|
+| AB        | AdaBoost               |
+| DT        | Decision Tree          |
+| GB        | Gradient Boosting      |
+| GNB       | Gaussian Naive Bayes   |
+| MLP       | Multi-Layer Perceptron |
+| RF        | Random Forest          |
+
+Each classifier is associated to 3 corresponding files:
+- `Shortname_training.csv` contains the samples used to train the classification system.
+- `Shortname_test.csv` contains the ground truth values for testing samples.
+- `Shortname_predicted.csv` contains the predicted output for the classification system.
 
 # Paper citation 
 
