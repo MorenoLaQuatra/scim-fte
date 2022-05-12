@@ -1,4 +1,4 @@
-# Understanding the value of full-text article exploration in citation analysis
+# Leveraging full-text article exploration for citation analysis
 
 This repository contains the binary classification output of different machine learning models for the task of scientific citation classification.
 
@@ -22,5 +22,17 @@ Each classifier is associated to 3 corresponding files:
 
 # Paper citation 
 
-Cagliero, L., La Quatra, M. & Baralis, E. *Understanding the value of full-text article exploration in citation analysis*, **currently under review**
+La Quatra, M., Cagliero, L. & Baralis, E. Leveraging full-text article exploration for citation analysis. Scientometrics 126, 8275–8293 (2021). https://doi.org/10.1007/s11192-021-04117-4
 
+```
+@article{laquatra2021leveraging,
+  title={Leveraging full-text article exploration for citation analysis},
+  author={La Quatra, Moreno and Cagliero, Luca and Baralis, Elena},
+  journal={Scientometrics},
+  volume={126},
+  number={10},
+  pages={8275--8293},
+  year={2021},
+  publisher={Springer}
+}
+```
